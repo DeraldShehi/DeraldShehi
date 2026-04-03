@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Derald 👋
 
-<!--
-**DeraldShehi/DeraldShehi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend & Mobile Developer
 
-Here are some ideas to get you started:
+I build mobile applications and POS systems using modern JavaScript technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+- JavaScript
+- React
+- React Native
+- Expo
+- Zustand
+- REST APIs
+
+## Current Project
+
+📱 POS Tablet Application
+
+Features:
+- Product catalog
+- Multi-cart system
+- Payment flow
+- API integration
+- Tablet optimized UI
+
+## Connect with me
+
+LinkedIn:
+https://www.linkedin.com/in/deraldshehi94/
