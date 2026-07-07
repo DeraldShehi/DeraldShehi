@@ -2,8 +2,6 @@
 
 Frontend & Mobile Developer
 
-I build mobile applications and POS systems using modern JavaScript technologies.
-
 ## Tech Stack
 
 - JavaScript
